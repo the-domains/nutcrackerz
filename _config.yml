@@ -1,7 +1,7 @@
 name: Nutcrackerz
 favicon: null
-layout_spectrum: 0.11460030917078257
-typography_spectrum: 0.29417868494056165
+layout_spectrum: 0.75947
+typography_spectrum: 0.50671
 title: 'Official Site of the Janet M. Schmidt Illinois Club, OES'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.9922499102540314
-  lightness: 0.32201772229745984
-  saturation: 0.045231444062665105
-  rhythmicContrast: 0.5323252703528851
+  brandStrength: 1
+  lightness: 0.3125
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
